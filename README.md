@@ -6,11 +6,11 @@
   </h1>
   
   <p align="center">
-    Sou um futuro desenvolvedor web full stack e gosto muito de sempre estar aprendo novos conhecimentos e linguagens 
+    Sou um futuro desenvolvedor web full stack, que atualmente ja possuo certificado da trybe em Front-End e gosto muito de sempre estar aprendo novos conhecimentos e linguagens. Sempre fui apaixonado por tudo que envolve tecnologia desde jogos a codigos e vim de uma familia de programadores oque sempre me ajudou a pegar gosto por tudo que envolve tecnologia. Normalmente as pessoa dizem que sou fora da caixa, pois sempre tento resolver de uma forma inovadora os problemas.
   </p>
   
   <p align="center">
-    Aproveita que você ja esta lendo até aqui e ja me segue no linkedin ou se preferir manda uma mensagem no meu email guilhermedpjf@gmail.com.Bora codar juntos 😎.
+    Aproveita que você ja esta lendo até aqui e ja me segue no <a href="www.linkedin.com/in/guilherme-dp">linkedin</a> ou se preferir manda uma mensagem no meu email guilhermedpjf@gmail.com.Bora codar juntos 😎.
   </p>
   
 </div>
