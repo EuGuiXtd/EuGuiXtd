@@ -10,7 +10,7 @@
   </p>
   
   <p align="center">
-    Aproveita que você ja esta lendo até aqui e ja me segue no <a href="https://www.linkedin.com/in/guilherme-DP" target="blank">Linkedin</a> ou se preferir manda uma mensagem no meu email guilhermedpjf@gmail.com.Bora codar juntos 😎.
+    Aproveita que você ja esta lendo até aqui e ja me segue no <a href="https://www.linkedin.com/in/guilherme-DP" target=blank>Linkedin</a> ou se preferir manda uma mensagem no meu email guilhermedpjf@gmail.com.Bora codar juntos 😎.
   </p>
   
 </div>
