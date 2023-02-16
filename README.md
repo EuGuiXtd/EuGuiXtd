@@ -21,6 +21,12 @@
     <li> HTML</li>
     <li> Git</li>
     <li> Jest</li>
+    <li> Node.js</li>
+    <li> MySQL</li>
+    <li> TypeScript</li>
+    <li> Sequelize</li>
+    <li> Docker</li>
+    <li> Express</li>
   </ul>
   
 </div>
