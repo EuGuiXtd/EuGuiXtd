@@ -10,7 +10,7 @@
   </p>
   
   <p align="center">
-    Aproveita que você ja esta lendo até aqui e ja me segue no <a href="https://www.linkedin.com/in/guilherme-DP" target=blank>Linkedin</a> ou se preferir manda uma mensagem no meu email guilhermedpjf@gmail.com.Bora codar juntos 😎.
+    Obrigado pela atenção até aqui, e se quiser se conectar mais comigo fique a vontade pra olhar meu linkedin <a href="https://www.linkedin.com/in/guilherme-DP" target=blank>Linkedin</a> ou se preferir um contato mais direto meu email está sempre aberto guilhermedpjf@gmail.com bora codar juntos.
   </p>
   <h2> Algumas proficiências minha: </h2>
   <ul>
