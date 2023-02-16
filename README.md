@@ -10,7 +10,7 @@
   </p>
   
   <p align="center">
-    Obrigado pela atenção até aqui, e se quiser se conectar mais comigo fique a vontade pra olhar meu linkedin <a href="https://www.linkedin.com/in/guilherme-DP" target=blank>Linkedin</a> ou se preferir um contato mais direto meu email está sempre aberto guilhermedpjf@gmail.com bora codar juntos.
+    Obrigado pela atenção até aqui, e se quiser se conectar mais comigo fique a vontade pra olhar meu <a href="https://www.linkedin.com/in/guilherme-DP" target=blank>Linkedin</a> ou se preferir um contato mais direto meu email está sempre aberto guilhermedpjf@gmail.com bora codar juntos.
   </p>
   <h2> Algumas proficiências minha: </h2>
   <ul>
