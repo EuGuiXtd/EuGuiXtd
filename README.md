@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou um futuro desenvolvedor web full stack, que atualmente ja possuo certificado da trybe em Front-End e gosto muito de sempre estar aprendo novos conhecimentos e linguagens. Sempre fui apaixonado por tudo que envolve tecnologia desde jogos a codigos e vim de uma familia de programadores oque sempre me ajudou a pegar gosto por tudo que envolve tecnologia. Normalmente as pessoa dizem que sou fora da caixa, pois sempre tento resolver de uma forma inovadora os problemas.
+    Sou um  desenvolvedor web full stack, que atualmente ja possuo certificado da trybe em Full Stack e gosto muito de sempre estar aprendo novos conhecimentos e linguagens. Sempre fui apaixonado por tudo que envolve tecnologia desde jogos a codigos e vim de uma familia de programadores oque sempre me ajudou a pegar gosto por tudo que envolve tecnologia. Normalmente as pessoa dizem que sou fora da caixa, pois sempre tento resolver de uma forma inovadora os problemas.
   </p>
   
   <p align="center">
@@ -16,11 +16,11 @@
   <ul>
     <li> React</li>
     <li> JavaScript</li>
-    <li> Redux</li>
+    <li> Python</li>
     <li> CSS</li>
     <li> HTML</li>
     <li> Git</li>
-    <li> Jest</li>
+    <li> PHP</li>
     <li> Node.js</li>
     <li> MySQL</li>
     <li> TypeScript</li>
